@@ -1,0 +1,22 @@
+# files for git to not track
+
+# these are some default windows things to ignore
+#############
+## Windows detritus
+#############
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+###########
+## specifically for this project, I want git to ignore the data!
+###########
+
+household_power_consumption.txt
