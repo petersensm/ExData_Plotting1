@@ -20,3 +20,5 @@ $RECYCLE.BIN/
 ###########
 
 household_power_consumption.txt
+# and an Rhistory file keeps popping up
+*.Rhistory
